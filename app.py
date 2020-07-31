@@ -18,4 +18,7 @@ def results():
     user_name=(request.form["character_name"])
     
     info = get_info(user_name)
-    return render_template("results.html", user_name=user_name, info=info, time=datetime.now())
+    print(info)
+    description=info[0]
+    picture=info[1]
+    return render_template("results.html", user_name=user_name, info=info, time=datetime.now(),description= description, picture=picture)
