@@ -34,15 +34,15 @@ def get_info(character):
     elif character == "Pheonix":
         return ["The Phoenix is a mythical bird from Ancient Greek legends. The story goes that the bird lives for several hundred years before it dies by setting itself on fire. However, it then starts a new life from the ashes of the fire. ... The Phoenix is often referred to as a fire bird, because it dies and is reborn out of fire.", "https://screenrant.com/wp-content/uploads/2017/08/Dark-Phoenix-defeated-Wolverine.jpg"]
     elif character == "Mr.Fantastic":
-        return "He is the inventor of the spacecraft that was bombarded by cosmic radiation on its maiden voyage, granting the Fantastic Four their powers. Richards gained the ability to stretch his body into any shape he desires."
+        return ["He is the inventor of the spacecraft that was bombarded by cosmic radiation on its maiden voyage, granting the Fantastic Four their powers. Richards gained the ability to stretch his body into any shape he desires.", "https://marvelcharacteranalysis.files.wordpress.com/2016/03/misterfantastic.jpg?w=608"]
     elif character == "Kid Flash":
         return ["Wally West is the biological son of Rudy and Marry West. He grew up a normal kid in Central City until his aunt Iris married Barry Allen. Not long afterward Wally discovered that his uncle was non other then the hero of central city, The Flash.", "https://www.dccomics.com/sites/default/files/GalleryComics_1920x1080_20180131-v1_0007_flash_ann_1_5a73d50b57a959.37685172.jpg"]
     elif character == "Spawn":
         return ["In his early battles, Spawn faces street thugs and gangs, becoming a dark and brutal antihero, culminating in the brutal murder of a pedophile and child murderer named Billy Kincaid. ... There he meets the bum Cogliostro, who seems to know much more about Spawn than he first lets on, and becomes his mentor.", "https://media.comicbook.com/2020/02/spawn-304-1205331-1280x0.jpeg"]
     elif character == "Doctor Doom":
-        return "Victor von Doom was born in a Romani camp outside Haasenstadt, Latveria. His mother, Cynthia, was killed in a bargain with Mephisto that went wrong. Despite his father's attempts to care for her, a noblewoman died and Werner von Doom fled with a young Victor on a cold winter's night."
+        return ["Victor von Doom was born in a Romani camp outside Haasenstadt, Latveria. His mother, Cynthia, was killed in a bargain with Mephisto that went wrong. Despite his father's attempts to care for her, a noblewoman died and Werner von Doom fled with a young Victor on a cold winter's night.", "https://img1.looper.com/img/gallery/noah-hawley-talking-about-making-a-doctor-doom-movie-with-marvel/intro-1561572477.jpg"]
     elif character == "Martian Manhunter":
-        return "One of the last survivors of the civil war that ravaged his home planet of Mars, J'onn J'onnz traveled to Earth and now fights to protect his adoptive home. J'onn J'onzz of the planet Mars was accidentally transported to Earth, where he became one of its greatest champions under the moniker Martian Manhunter."
+        return ["One of the last survivors of the civil war that ravaged his home planet of Mars, J'onn J'onnz traveled to Earth and now fights to protect his adoptive home. J'onn J'onzz of the planet Mars was accidentally transported to Earth, where he became one of its greatest champions under the moniker Martian Manhunter.", "https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/07/martian-manhunter-justice-league-header.jpg"]
     elif character == "Galactus":
         return "Galactus was originally the explorer Galan of the planet Taa, which existed in the prime pre-Big Bang universe. When an unknown cosmic cataclysm gradually begins killing off all of the other life in his universe, Galan and other survivors leave Taa on a spacecraft and are engulfed in the Big Crunch."
     elif character == "Magneto":
@@ -66,20 +66,20 @@ def get_info(character):
     elif character == "Darkseid":
         return "Darkseid is among the most powerful beings of the DC Universe from the race known as New Gods. His main power, the Omega Beams, is a form of energy that he fires from his eyes or hands as either a concussive force or a disintegrating energy which is capable of erasing living objects and organisms from existence."
     elif character == "Beast":
-        return ""
+        return "The Beast, the character was introduced as a mutant possessing ape-like superhuman physical strength and agility, oversized hands and feet, a genius-level intellect, and otherwise normal appearance and speech."
     elif character == "Punisher":
-        return "Punisher- A war veteran and a United States Marine Corps Scout Sniper in Force Recon, Castle is skilled in hand-to-hand combat, guerrilla warfare, and marksmanship. The Punisher's brutal nature and willingness to kill made him an anomaly in mainstream American comic books when he debuted in 1974.The Punisher's iconic skull as a symbol of force in recent years."
+        return ["Punisher- A war veteran and a United States Marine Corps Scout Sniper in Force Recon, Castle is skilled in hand-to-hand combat, guerrilla warfare, and marksmanship. The Punisher's brutal nature and willingness to kill made him an anomaly in mainstream American comic books when he debuted in 1974.The Punisher's iconic skull as a symbol of force in recent years.", ""]
     elif character == "Rogue":
-        return 
+        return ["Rogue is part of a subspecies of humans called mutants, who are born with superhuman abilities. Rogue has the involuntary ability to absorb and sometimes also remove the memories, physical strength, and superpowers of anyone she touches. Therefore, Rogue considers her powers to be a curse.", "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fstatic3.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2017%2F10%2Frogue-gambit-header-1.jpg"]
     elif character == "John Constantine":
-        return 
+        return ["The titular Hellblazer, Constantine is a working class warlock, occult detective and con man stationed in London. He is known for his endless cynicism, deadpan snarking, ruthless cunning and constant chain smoking, but he's also a passionate humanitarian driven by a heartfelt desire to do some good in his life.", "https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FpFqc7pobiYINdAK0ib__Qsv6Snk%3D%2F0x809%3A1988x3056%2F1200x675%2Ffilters%3Afocal(1043x1100%3A1361x1418)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F65959628%2FSNDUNI_Presents_HLLBLZR_Evely.0.jpg"]
     elif character == "Green Goblin":
-        return 
+        return ["Norman Osborn was turned into the Green Goblin by a chemical solution he had devised based upon a formula originally conceived by Professor Mendel Stromm. The process granted Osborn superhuman strength, speed, reflexes, and stamina as well as a low-level rapid healing factor.", "https://media.comicbook.com/2018/05/best-spider-man-green-goblin-fights-cover-1112643.jpeg"]
     elif character == "Red Hood":
-        return 
+        return "The new Red Hood assumes control over various gangs in Gotham City and starts a one-man war against Black Mask's criminal empire. He actively tries to cleanse the city of corruption, such as the illegal drug trade and gang violence, but in a violent, antiheroic way."
     elif character == "Doctor Octopus":
-        return 
+        return "Known Superhuman Powers: Doctor Octopus' abilities derive from his four titanium tentacles. Attached to a stainless-steel harness encircling his lower chest and waist, each telepathically-controlled, telescoping tentacle is capable of moving at speeds of 90 feet per second and can strike with the force of a jackhammer."
     elif character == "Lois Lane":
-        return 
+        return "Lois Lane is a reporter and the primary love interest to Superman (and in the DC continuity his wife). She is also known as superwoman. She is a journalist for the Metropolis newspaper, The Daily Planet. Depictions of her have varied since she was created in 1938, spanning the Superman comic books. Throughout the character's long history, she has always been the most prominent love interest in Superman's life and is seen by many fans as the archetypical comic book love interest."
     
       
